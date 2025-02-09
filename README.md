@@ -6,7 +6,7 @@ Visual:
 * User can specify colors/style for menu items.
 
 Functional:
+* Designed to be used in a standalone gamescope session.
 * Differs from other frontends by not focusing exlusively on emulation.
 * Can automatically display games from Steam/GOG and launch them with the proper flags.
 * Can be configured to automatically display other games/apps by configuring paths.
-* Proper integration with gamescope and Steam big picture launching.
